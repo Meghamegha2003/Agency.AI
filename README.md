@@ -1,4 +1,4 @@
-<h1 align="center">👉 Lumio Creative Agency ✨</h1>
+<h1 align="center">👉 Agency.AI ✨</h1>
 
 <h3 align="center">
   <i>A minimal yet powerful showcase of modern web UI</i>
@@ -23,6 +23,6 @@
 
 ## 📌 Overview
 
-<b>Lumio Creative Agency </b> is a simple single-page website designed to showcase services and allow users to connect easily. It includes sections like Home, Services, Our Work, and Contact Us, all accessible through a responsive navbar for smooth navigation within the same page. It also supports light and dark mode for a better user experience.
+<b>Agency.AI </b> is a simple single-page website designed to showcase services and allow users to connect easily. It includes sections like Home, Services, Our Work, and Contact Us, all accessible through a responsive navbar for smooth navigation within the same page. It also supports light and dark mode for a better user experience.
 
 
