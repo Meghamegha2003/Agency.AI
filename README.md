@@ -1,16 +1,28 @@
-# React + Vite
+<h1 align="center">👉 Lumio Creative Agency ✨</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h3 align="center">
+  <i>A minimal yet powerful showcase of modern web UI</i>
+</h3>
 
-Currently, two official plugins are available:
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<p align="center">
+  <b>🌐 <a href="https://your-live-link.com">Live Demo</a></b>
+</p>
 
-## React Compiler
+<p align="center">
+  Created by <b>Megha Gopalakrishnan</b>
+</p>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📌 Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<b>Lumio Creative Agency </b> is a simple single-page website designed to showcase services and allow users to connect easily. It includes sections like Home, Services, Our Work, and Contact Us, all accessible through a responsive navbar for smooth navigation within the same page. It also supports light and dark mode for a better user experience.
+
+
